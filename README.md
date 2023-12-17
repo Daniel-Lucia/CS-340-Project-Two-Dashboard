@@ -1,32 +1,13 @@
 # CS-340-Project-Two-Dashboard
 
-How do you write programs that are maintainable, readable, and adaptable? 
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-Writing programs that are maintainable, readable, and adaptable by creating solutions that are compatible together from the code that I created.
+I try to write programs that are maintainable, readable, and adaptable by creating solutions that are compatible together and are as organized and understandable as possible. The advantage of working in this way is that by having compatible code solutions you can identify incorrect components and potentially reuse code solutions easily. Another way of using the CRUD Python module in the future is that now I have a framework to base future projects so I can look back and potentially use parts of this code in the future.
 
-What were the advantages of working in this way? 
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-The advantage of working in this way is by having compatible code solutions and being able to identify incorrect components and reuse code solutions easily.
-How else could you use this CRUD Python module in the future? 
+My approach to this problem as a computer scientist is to have a technical mindset by using the knowledge and resources that were provided to help solve this problem efficiently. I approached the client's request by breaking down the problem into smaller sections and using the available solutions to me at that time like Pymongo to help streamline the code solution. My approach to this project did not change that much from other projects but it was a little different having to code multiple different files and make sure they all worked together correctly. The methods that I would use in the future would be similar to those I used in this project just staying on task and rereading the requirements to make sure that everything the client desires is implemented.
 
-Another way of using CRUD Python module in the future is by writing testable code that have test conditions and finding all the errors in my code solutions.
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-How do you approach a problem as a computer scientist?
-
-My approached this problem as a computer scientist is having a technical mindset by using the knowledge and resources that were given to help me solve this problem efficiently. I will approach the client request by breaking down the problem and using the available solutions that are available to me at that time like pymongo to help streamline the code solution.
-
-How did your approach to this project differ from previous assignments in other courses?
-
-My approach to this project varies in a way my design decisions were made.
-
-What techniques or strategies would you use in the future to create databases to meet other client requests? 
-
-The methods that I would use the NoSQL databases in the future to create databases to meet and fulfill other client requests.
-
-What do computer scientists do, and why does it matter? 
-
-Computer scientists help solve and identify complex problems with technology in advanced ways. This matters because it is work that uses the connection of creativity and science to improve computers.
-
-How would your work on this type of project help a company, like Grazioso Salvare, to do their work better? 
-
-Project types like this one can help a company locate important information quickly by working with the database and dashboard design to make their work even better than before.
+Computer scientists help identify and solve complex problems with technology and help make advancements in technology as well. This matters because it is work that uses the connection of creativity and science to improve computers and technology. Project types like this one can help a company locate important information quickly by working with the database and dashboard design to make their work easier to do and more accessible to those who are less technologically inclined.
