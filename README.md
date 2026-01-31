@@ -1,4 +1,4 @@
-# CS-340-Project-Two-Web-Application-Dashboard-Description
+# CS-340 Project Two Web Application Dashboard Description
 
 This course focused on building applications that interface client-side code with database systems. Some key topics we learned about included NoSQL databases (MongoDB), Python integration, CRUD (Create, Read, Update, Delete) operations, and API development, which ended in a final web application project. 
 
