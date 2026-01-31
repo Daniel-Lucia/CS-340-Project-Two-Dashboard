@@ -1,3 +1,5 @@
+# CS-340-Project-Two-Dashboard
+
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
 I try to write programs that are maintainable, readable, and adaptable by creating solutions that are compatible together and are as organized and understandable as possible. The advantage of working in this way is that by having compatible code solutions you can identify incorrect components and potentially reuse code solutions easily. Another way of using the CRUD Python module in the future is that now I have a framework to base future projects so I can look back and potentially use parts of this code in the future.
